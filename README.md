@@ -9,7 +9,7 @@
 ## Usage
 
 ```go
-func Run(rows *sql.Rows) ([]byte, error)
+func Run(rows *sql.Rows) (string, error)
 ```
  --
 ```go
@@ -27,8 +27,6 @@ func main() {
     if err != nil {
         // Handle it.
     }
-
-    stringData := string(jsonData)
 }
 ```
 
