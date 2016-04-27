@@ -4,7 +4,7 @@
 
 ## Install
 
-    go get github.com/phamdaniel/sql2json
+    go get github.com/danhp/sql2json
 
 ## Usage
 
@@ -36,4 +36,4 @@ Sample Output:
 ```
 
 ## License
-MIT © [Daniel Pham](https://phamdaniel.github.io)
+MIT © [Daniel Pham](https://danhp.github.io)
